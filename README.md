@@ -9,7 +9,7 @@
 
 # Lab Code Notebooks
 
-<a href="">LAB 01</a>
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/Lab01.ipynb">LAB 01</a>
 
 <a href="https://github.com/2303A51586/AIML-2025/blob/main/lab2.ipynb">LAB 02</a>
 
