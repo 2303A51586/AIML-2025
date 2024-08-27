@@ -7,7 +7,7 @@
 
 <a href="https://github.com/2303A51586/AIML-2025/blob/main/AIML_A3.pdf">LAB 03</a> : Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 
-<a href="https://github.com/2303A51586/AIML-2025/blob/main/AIML_A4.pdf">LAB 03</a> : Implement Linear Regression using Boston Housing Data
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/AIML_A4.pdf">LAB 04</a> : Implement Linear Regression using Boston Housing Data
 
 # Lab Code Notebooks
 
@@ -17,5 +17,5 @@
 
 <a href="https://github.com/2303A51586/AIML-2025/blob/main/lab3.ipynb">LAB 03</a>
 
-<a href="https://github.com/2303A51586/AIML-2025/blob/main/lab3.ipynb">LAB 03</a>
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/lab3.ipynb">LAB 04</a>
 
