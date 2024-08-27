@@ -7,7 +7,7 @@ Lab 02: Implement AI Search using Breadth First, Depth First and A* Search Algor
 
 Lab 03: Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 
-Lab Code Notebooks
+# Lab Code Notebooks
 
 Lab 01
 
