@@ -9,6 +9,11 @@
 
 <a href="https://github.com/2303A51586/AIML-2025/blob/main/AIML_A4.pdf">LAB 04</a> : Implement Linear Regression using Boston Housing Data
 
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/AIML_A4.pdf">LAB 04</a> : Implement Logistic Regression using Titanic Ship Data
+
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/AIML_A4.pdf">LAB 04</a> : Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
+
+
 # Lab Code Notebooks
 
 <a href="https://github.com/2303A51586/AIML-2025/blob/main/Lab01.ipynb">LAB 01</a>
@@ -18,4 +23,9 @@
 <a href="https://github.com/2303A51586/AIML-2025/blob/main/lab3.ipynb">LAB 03</a>
 
 <a href="https://github.com/2303A51586/AIML-2025/blob/main/lab4.ipynb">LAB 04</a>
+
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/lab5.ipynb">LAB 05</a>
+
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/lab6.ipynb">LAB 06</a>
+
 
