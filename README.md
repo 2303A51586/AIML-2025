@@ -13,6 +13,15 @@
 
 <a href="https://github.com/2303A51586/AIML-2025/blob/main/AIML_A6.pdf">LAB 06</a> : Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/AIML_A7.pdf">LAB 07</a> : Implement Logistic Regression using Titanic Ship Data
+
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/AIML_A8.pdf">LAB 08</a> : Implement Logistic Regression using Titanic Ship Data
+
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/AIML_A9.pdf">LAB 09</a> : Implement Logistic Regression using Titanic Ship Data
+
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/AIML_A10.pdf">LAB 10</a> : Implement Logistic Regression using Titanic Ship Data
+
+
 
 # Lab Code Notebooks
 
@@ -27,5 +36,14 @@
 <a href="https://github.com/2303A51586/AIML-2025/blob/main/lab5.ipynb">LAB 05</a>
 
 <a href="https://github.com/2303A51586/AIML-2025/blob/main/lab6.ipynb">LAB 06</a>
+
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/lab7.ipynb">LAB 07</a>
+
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/lab8.ipynb">LAB 08</a>
+
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/lab9.ipynb">LAB 09</a>
+
+<a href="https://github.com/2303A51586/AIML-2025/blob/main/lab10.ipynb">LAB 10</a>
+
 
 
